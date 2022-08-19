@@ -1,2 +1,2 @@
 # vue3-text-editor
-A simple text editor made with Vue3
+Trying out ckeditor 5 in Vue3

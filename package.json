@@ -7,11 +7,18 @@
     "preview": "vite preview --port 4173"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^35.0.1",
+    "@ckeditor/ckeditor5-heading": "^35.0.1",
+    "@ckeditor/ckeditor5-vue": "^4.0.1",
+    "@vueuse/core": "^9.1.0",
     "pinia": "^2.0.17",
     "vue": "^3.2.37"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.1",
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8",
     "vite": "^3.0.4"
   }
 }
